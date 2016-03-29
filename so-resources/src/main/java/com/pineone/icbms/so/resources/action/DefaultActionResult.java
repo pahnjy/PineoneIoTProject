@@ -13,11 +13,6 @@ public class DefaultActionResult extends AGenericResult
 	 */
 	protected int status = SC_SUCCESS;
 
-	/**
-	 * counts
-     */
-	protected int counts = 0;
-
 	protected String name = "";
 
 	@Override
