@@ -1,0 +1,16 @@
+diff a/so-resources/src/main/java/com/pineone/icbms/so/resources/action/DefaultActionResult.java b/so-resources/src/main/java/com/pineone/icbms/so/resources/action/DefaultActionResult.java	(rejected hunks)
+@@ -15,9 +15,13 @@
+ 
+ 	/**
+ 	 * counts
+-     */
++        */
+ 	protected int counts = 0;
+ 
++	/**
++	* Test:
++	*/ 
++
+ 	@Override
+ 	public Integer getStatus()
+ 	{
