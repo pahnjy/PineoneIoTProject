@@ -15,8 +15,12 @@ public class DefaultActionResult extends AGenericResult
 
 	/**
 	 * counts
-     */
+        */
 	protected int counts = 0;
+
+	/**
+	* Test:
+	*/ 
 
 	@Override
 	public Integer getStatus()
