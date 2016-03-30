@@ -11,6 +11,7 @@ public interface IGenericAction
 		extends IAction
 {
 	//
+
 	/**
 	 * execute action content.<BR/>
 	 * 

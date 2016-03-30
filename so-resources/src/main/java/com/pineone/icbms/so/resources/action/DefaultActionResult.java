@@ -18,6 +18,7 @@ public class DefaultActionResult extends AGenericResult
      */
 	protected int counts = 0;
 
+
 	protected String name = "";
 
 	@Override
