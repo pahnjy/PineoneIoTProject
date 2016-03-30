@@ -25,6 +25,7 @@ public class DefaultActionResult extends AGenericResult
 	{
 		return status;
 	}
+
 	
 	/**
 	* get Name
