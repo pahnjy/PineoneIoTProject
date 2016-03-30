@@ -25,4 +25,9 @@ public class DefaultActionResult extends AGenericResult
 	{
 		return status;
 	}
+
+	private String getName() {
+		return this.name;
+	}
+
 }
