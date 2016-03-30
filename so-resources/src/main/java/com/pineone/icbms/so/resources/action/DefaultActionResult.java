@@ -25,4 +25,12 @@ public class DefaultActionResult extends AGenericResult
 	{
 		return status;
 	}
+	
+	/**
+	* get Name
+	*/
+	public String getName()
+	{
+		return name;
+	}
 }
