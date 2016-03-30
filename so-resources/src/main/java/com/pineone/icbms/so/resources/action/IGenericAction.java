@@ -10,6 +10,7 @@ import com.pineone.icbms.so.resources.result.IGenericResult;
 public interface IGenericAction
 		extends IAction
 {
+	//
 	/**
 	 * execute action content.<BR/>
 	 * 

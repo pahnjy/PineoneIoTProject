@@ -34,4 +34,5 @@ public class DefaultActionResult extends AGenericResult
 	{
 		return name;
 	}
+	//
 }

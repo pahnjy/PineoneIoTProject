@@ -12,6 +12,7 @@ abstract public class AGenericAction extends AGenericVirtualObject
 {
 	private static final long serialVersionUID = -4250441849269071769l;
 
+	//
 	/**
 	 * result
 	 */

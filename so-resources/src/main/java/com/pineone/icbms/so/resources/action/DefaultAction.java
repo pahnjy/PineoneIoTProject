@@ -13,5 +13,6 @@ public class DefaultAction extends AGenericAction
 	@Override
 	public void execute(IGenericContext context)
 	{
+		//
 	}
 }

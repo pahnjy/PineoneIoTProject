@@ -8,4 +8,5 @@ import com.pineone.icbms.so.resources.vo.IGenericVirtualObject;
  */
 public interface IAction extends IGenericVirtualObject
 {
+	//
 }
